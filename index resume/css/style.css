@@ -1,0 +1,111 @@
+body{
+    
+    background-image:url('../image/4-butterfly-png-image.png') ;
+    background-size: cover;
+    background-attachment:fixed;
+    background-color: grey;
+
+
+}
+
+.container{
+    
+    background-color:antiquewhite  ;
+    width: 750px;
+    margin: 0 auto;
+    padding: 40px 40px;
+
+   
+} 
+h1{
+    color:blue;
+    font-family: 'Modak', cursive;
+    font-size: 35px;
+    padding: 10px 2px 0px;
+
+   
+    font-family: 'cookie', cursive;
+
+} 
+ul{
+    color:black;
+    font-family: 'Modak', cursive;
+    font-family: 'Dancing+Script',cursive;
+    list-style: none;
+    padding-block-start: 5px;
+    padding-inline-start: 2.5px;
+    padding-block-end: 5px;
+    padding-left: 30px;
+    line-height: 2;
+
+
+
+}
+
+
+   
+
+
+h2{
+   background-color:rgb(153, 148, 148);
+    font-family: 'Modak', cursive;
+    padding:1px 0 ;
+    color:black;
+    font-family: 'cookie', cursive;
+    box-shadow:12px 14px 20px 0px grey;
+    text-shadow:12px 14px 20px 0px grey;
+    padding: 10px 10px 10px;
+    border: solid 1px black;
+    padding-inline-end: 10px;
+    font-size: 20px;
+
+}
+.lesson li:before{
+    content: "";
+    display: inline-block;
+    background: #30097d;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    left: -23px;
+    position: relative;
+    top: -2px;
+}
+
+
+
+p{
+    color:black;
+    font-family: 'Modak', cursive;
+    font-family: 'Dancing+Script',cursive;
+    margin: 5px;
+    line-height: 1.5;
+    padding-left: 10px;
+    
+
+
+
+}
+table{
+    font-family: 'Modak', cursive;
+    font-family: 'Dancing+Script',cursive;
+
+}
+.special{
+    background-color: aqua;
+}
+
+.style-1 tr th,
+.style-1 tr td{
+    border:solid 1px #ccc ;
+    padding:20px 50px;
+
+}
+.section{
+    box-shadow:12px 14px 20px 0px grey;
+    text-shadow:12px 14px 20px 0px grey;
+
+
+}
+
+
